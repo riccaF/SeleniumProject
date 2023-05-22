@@ -13,7 +13,7 @@ public class LoginTest extends DriverLifeCycleSetting {
   private LoginFormPO login;
   private LoginSuccessPO loginSuccess;
   
-  // two tests ok and not ok
+  // two tests: ok and not ok
   
   @Test
   public void testLoginOK() {
